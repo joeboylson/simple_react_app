@@ -1,0 +1,17 @@
+nav {
+  background-color: black;
+  height: 89px;
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  display: block;
+  margin: 0 34px;
+  color: white;
+  transition-duration: 0.25s;
+}
+
+nav a:hover {
+  color: tomato;
+}
