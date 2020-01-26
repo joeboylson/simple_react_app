@@ -1,3 +1,24 @@
+# SIMPLE REACT APP
+
+by Joe Boylson
+
+<br /><br />
+
+1. clone this project with `git clone https://github.com/joeboylson/simple_react_app.git`
+
+2. install yarn globally (if you haven't already) with `sudo npm install -g yarn`
+
+3. then install project dependencies with `yarn install`
+
+4. start the development server with `yarn start`
+
+(see below for more information)
+
+
+---
+
+# CREATE REACT APP INFO
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
